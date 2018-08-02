@@ -13,7 +13,7 @@
       "js": "src/js/main.js",
       "fonts": "src/fonts/**/*.*",
       "img": {
-        "all": [
+        "compress": [
           "src/img/**/*.*",
           "!src/img/noCompress/**/*.*"
         ],
